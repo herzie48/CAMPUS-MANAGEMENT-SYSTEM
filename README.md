@@ -2,8 +2,6 @@
 
 A complete, professional, menu-driven Campus Management System built entirely in Python. The system provides a command-line interface (CLI) styled with ANSI color codes and Unicode double-box drawings. It leverages **NumPy** for academic performance analytics and **Matplotlib** for administrative visualizations, while managing database operations through flat text files.
 
-This project is tailored specifically for first-year Computer Science students, strictly using procedural concepts (functions, lists, dictionaries, tuples, and file handling) without using Object-Oriented Programming (OOP) classes.
-
 ---
 
 ## Folder Structure
@@ -132,11 +130,6 @@ Upon first launch, the program automatically boots up the `data/` files and seed
 
 ---
 
-## Screenshots Placeholder
-
-*You can save generated Matplotlib PNG charts or terminal CLI boxes in this directory and embed them here.*
-
----
 
 ## Future Improvements
 
