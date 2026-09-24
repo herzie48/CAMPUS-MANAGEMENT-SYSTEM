@@ -130,9 +130,3 @@ Upon first launch, the program automatically boots up the `data/` files and seed
 
 ---
 
-
-## Future Improvements
-
-- Implement encryption hash algorithms (like `hashlib`) for password records in `users.txt`.
-- Add CSV export utilities for administrative report spreadsheets.
-- Add course prerequisite checks during student enrollments.
